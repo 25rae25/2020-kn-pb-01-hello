@@ -113,4 +113,4 @@ git clone https://github.com/booldook/2020-kn-pb-01.hello
 ## **ctrl + b** : 왼쪽 창 열고 닫기
 ## **alt + shift + 아래화살표** : 선택된 행 복사 
 ## **alt + 아래(위)화살표** : 선택된 행 이동
-## **alt + click** : 다중 편집 선택
+## **alt + click** : 다중 편집
